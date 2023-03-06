@@ -1,6 +1,6 @@
 
 # Descripción: componente de codigo QR
-Este es un de FrontEnd Mentor en donde se podra observar el Qr de la pagina de FrontEnd Mentor
+Este es un ejercicio de FrontEnd Mentor en donde se podra observar el Qr de la pagina de FrontEnd Mentor
 ## Tecnologias y Metodologias usadas
 [![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
